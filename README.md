@@ -74,7 +74,7 @@ Bạn có thể xem và chạy dự án này ở local bằng cách làm theo c�
 
 1.  **Clone repository:**
     ```bash
-    git clone [https://github.com/dgeniust/ten-repo-cua-ban.git](https://github.com/dgeniust/ten-repo-cua-ban.git)
+    git clone https://github.com/dgeniust/portfolio-2025.git
     ```
 2.  **Di chuyển vào thư mục dự án:**
     ```bash
